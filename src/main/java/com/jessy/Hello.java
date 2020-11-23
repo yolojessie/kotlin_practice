@@ -8,6 +8,9 @@ public class Hello {
         p.weight = 66.5f;
         p.height = 1.7f;
         System.out.println(p.bmi());
+        int score = 88;
+        System.out.println(score <= 60);
+        
 /*        int age = 19;
         Integer age2 = 19;
         char c = 'B';
